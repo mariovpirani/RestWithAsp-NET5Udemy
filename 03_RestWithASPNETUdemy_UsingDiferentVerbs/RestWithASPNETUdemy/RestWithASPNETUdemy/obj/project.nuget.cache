@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xVkZDebtFQmbtHe6al/Lx/ZMDZLiQZ4h50F1Ef7ZU8TYkhS/Jiz5Xs2nbjGL9sShJFTEmQNNckzctpIK5rOpw==",
+  "success": true,
+  "projectFilePath": "D:\\estudos\\RestWithAsp-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

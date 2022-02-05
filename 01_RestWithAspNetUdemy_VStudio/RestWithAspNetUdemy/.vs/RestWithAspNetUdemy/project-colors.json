@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c686e01-f2f0-4f3f-a483-802d78768ec7": {
+      "ProjectGuid": "6c686e01-f2f0-4f3f-a483-802d78768ec7",
+      "DisplayName": "RestWithAspNetUdemy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

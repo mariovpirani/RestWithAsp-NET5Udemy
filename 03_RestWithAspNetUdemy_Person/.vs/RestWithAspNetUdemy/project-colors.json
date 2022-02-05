@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0b9f350-89f4-437e-aee8-3cc87a5575fe": {
+      "ProjectGuid": "e0b9f350-89f4-437e-aee8-3cc87a5575fe",
+      "DisplayName": "RestWithAspNetUdemy",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
